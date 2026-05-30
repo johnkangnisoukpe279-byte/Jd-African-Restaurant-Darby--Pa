@@ -2,5 +2,4 @@
 Nice West-African restaurant for you
 
 
-src/App.tsxReadsrc/components/Hero.tsxd
-package.json
+src/App.tsxReadsrc/components/Hero.tsxn
